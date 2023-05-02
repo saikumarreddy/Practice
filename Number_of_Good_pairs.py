@@ -1,3 +1,4 @@
+"""
 Given an array of integers nums, return the number of good pairs.
 
 A pair (i, j) is called good if nums[i] == nums[j] and i < j.
@@ -17,7 +18,7 @@ Explanation: Each pair in the array are good.
 Example 3:
 
 Input: nums = [1,2,3]
-Output: 0"""
+Output: 0
 
 """
 
